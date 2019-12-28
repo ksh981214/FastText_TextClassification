@@ -6,7 +6,9 @@ referenced by [Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas Mikolov, â€
 
 Korea University Information Retrieval(COSE 472) Assignment6
 
-- Classification Model Experiment
+-----
+
+## Classification Model Experiment
 
 AG News Classification
 - classify news into 4 classes (World, Sports, Business, Sci/Tech)
